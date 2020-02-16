@@ -1,0 +1,164 @@
+{"frames": [
+
+{
+	"filename": "msg_crash.png",
+	"frame": {"x":242,"y":318,"w":698,"h":126},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":698,"h":126},
+	"sourceSize": {"w":698,"h":126}
+},
+{
+	"filename": "msg_goal.png",
+	"frame": {"x":0,"y":444,"w":698,"h":126},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":698,"h":126},
+	"sourceSize": {"w":698,"h":126}
+},
+{
+	"filename": "msg_level_1.png",
+	"frame": {"x":0,"y":254,"w":242,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":242,"h":64},
+	"sourceSize": {"w":242,"h":64}
+},
+{
+	"filename": "msg_level_2.png",
+	"frame": {"x":0,"y":318,"w":242,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":242,"h":64},
+	"sourceSize": {"w":242,"h":64}
+},
+{
+	"filename": "msg_level_3.png",
+	"frame": {"x":726,"y":254,"w":242,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":242,"h":64},
+	"sourceSize": {"w":242,"h":64}
+},
+{
+	"filename": "msg_level_4.png",
+	"frame": {"x":726,"y":190,"w":242,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":242,"h":64},
+	"sourceSize": {"w":242,"h":64}
+},
+{
+	"filename": "msg_level_5.png",
+	"frame": {"x":484,"y":190,"w":242,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":242,"h":64},
+	"sourceSize": {"w":242,"h":64}
+},
+{
+	"filename": "msg_level_6.png",
+	"frame": {"x":720,"y":0,"w":242,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":242,"h":64},
+	"sourceSize": {"w":242,"h":64}
+},
+{
+	"filename": "msg_level_7.png",
+	"frame": {"x":242,"y":254,"w":242,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":242,"h":64},
+	"sourceSize": {"w":242,"h":64}
+},
+{
+	"filename": "msg_level_8.png",
+	"frame": {"x":0,"y":190,"w":242,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":242,"h":64},
+	"sourceSize": {"w":242,"h":64}
+},
+{
+	"filename": "msg_level_9.png",
+	"frame": {"x":242,"y":190,"w":242,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":242,"h":64},
+	"sourceSize": {"w":242,"h":64}
+},
+{
+	"filename": "msg_level_10.png",
+	"frame": {"x":484,"y":254,"w":242,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":242,"h":64},
+	"sourceSize": {"w":242,"h":64}
+},
+{
+	"filename": "msg_lost.png",
+	"frame": {"x":0,"y":696,"w":698,"h":126},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":698,"h":126},
+	"sourceSize": {"w":698,"h":126}
+},
+{
+	"filename": "msg_space.png",
+	"frame": {"x":0,"y":822,"w":698,"h":126},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":698,"h":126},
+	"sourceSize": {"w":698,"h":126}
+},
+{
+	"filename": "msg_title.png",
+	"frame": {"x":0,"y":948,"w":780,"h":380},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":780,"h":380},
+	"sourceSize": {"w":780,"h":380}
+},
+{
+	"filename": "msg_tutorial_arrows.png",
+	"frame": {"x":480,"y":0,"w":240,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":190},
+	"sourceSize": {"w":240,"h":190}
+},
+{
+	"filename": "msg_tutorial_ko.png",
+	"frame": {"x":240,"y":0,"w":240,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":190},
+	"sourceSize": {"w":240,"h":190}
+},
+{
+	"filename": "msg_tutorial_wad.png",
+	"frame": {"x":0,"y":0,"w":240,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":190},
+	"sourceSize": {"w":240,"h":190}
+},
+{
+	"filename": "msg_win.png",
+	"frame": {"x":0,"y":570,"w":698,"h":126},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":698,"h":126},
+	"sourceSize": {"w":698,"h":126}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "msgs.png",
+	"format": "RGBA8888",
+	"size": {"w":968,"h":1328},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:aafd00bda7b12714809aba82b5335dc2:57fbb179b65df13d9210892d4aab16c4:c50fffef269f8bdd04bcef6e4360931d$"
+}
+}

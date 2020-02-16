@@ -1,0 +1,44 @@
+{"frames": [
+
+{
+	"filename": "destination.png",
+	"frame": {"x":0,"y":0,"w":1024,"h":1024},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1024,"h":1024},
+	"sourceSize": {"w":1024,"h":1024}
+},
+{
+	"filename": "meteor_large.png",
+	"frame": {"x":1024,"y":0,"w":1024,"h":1024},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1024,"h":1024},
+	"sourceSize": {"w":1024,"h":1024}
+},
+{
+	"filename": "meteor_medium.png",
+	"frame": {"x":0,"y":1024,"w":563,"h":563},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":563,"h":563},
+	"sourceSize": {"w":563,"h":563}
+},
+{
+	"filename": "meteor_small.png",
+	"frame": {"x":563,"y":1024,"w":272,"h":272},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":272,"h":272},
+	"sourceSize": {"w":272,"h":272}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "space_bodies.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":1587},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:c03b6fef6e11358e753765037434517c:f5d7857f8d327c22a05ede8c1a0f0cdb:a5fe7db4b869eb0f3e0b2940b9577ea8$"
+}
+}

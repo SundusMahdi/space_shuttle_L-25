@@ -1,0 +1,172 @@
+{"frames": [
+
+{
+	"filename": "court_happy_1.png",
+	"frame": {"x":0,"y":0,"w":170,"h":223},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":170,"h":223},
+	"sourceSize": {"w":170,"h":223}
+},
+{
+	"filename": "court_happy_2.png",
+	"frame": {"x":170,"y":0,"w":170,"h":223},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":170,"h":223},
+	"sourceSize": {"w":170,"h":223}
+},
+{
+	"filename": "court_moving_1.png",
+	"frame": {"x":340,"y":0,"w":170,"h":223},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":170,"h":223},
+	"sourceSize": {"w":170,"h":223}
+},
+{
+	"filename": "court_moving_2.png",
+	"frame": {"x":0,"y":223,"w":170,"h":223},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":170,"h":223},
+	"sourceSize": {"w":170,"h":223}
+},
+{
+	"filename": "court_moving_3.png",
+	"frame": {"x":170,"y":223,"w":170,"h":223},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":170,"h":223},
+	"sourceSize": {"w":170,"h":223}
+},
+{
+	"filename": "court_moving_4.png",
+	"frame": {"x":340,"y":223,"w":170,"h":223},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":170,"h":223},
+	"sourceSize": {"w":170,"h":223}
+},
+{
+	"filename": "court_sad_1.png",
+	"frame": {"x":0,"y":446,"w":170,"h":223},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":170,"h":223},
+	"sourceSize": {"w":170,"h":223}
+},
+{
+	"filename": "court_sad_2.png",
+	"frame": {"x":170,"y":446,"w":170,"h":223},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":170,"h":223},
+	"sourceSize": {"w":170,"h":223}
+},
+{
+	"filename": "court_static_1.png",
+	"frame": {"x":340,"y":446,"w":170,"h":223},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":170,"h":223},
+	"sourceSize": {"w":170,"h":223}
+},
+{
+	"filename": "court_static_2.png",
+	"frame": {"x":0,"y":669,"w":170,"h":223},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":170,"h":223},
+	"sourceSize": {"w":170,"h":223}
+},
+{
+	"filename": "sundus_happy_1.png",
+	"frame": {"x":170,"y":669,"w":170,"h":223},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":170,"h":223},
+	"sourceSize": {"w":170,"h":223}
+},
+{
+	"filename": "sundus_happy_2.png",
+	"frame": {"x":340,"y":669,"w":170,"h":223},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":170,"h":223},
+	"sourceSize": {"w":170,"h":223}
+},
+{
+	"filename": "sundus_moving_1.png",
+	"frame": {"x":0,"y":892,"w":170,"h":223},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":170,"h":223},
+	"sourceSize": {"w":170,"h":223}
+},
+{
+	"filename": "sundus_moving_2.png",
+	"frame": {"x":170,"y":892,"w":170,"h":223},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":170,"h":223},
+	"sourceSize": {"w":170,"h":223}
+},
+{
+	"filename": "sundus_moving_3.png",
+	"frame": {"x":340,"y":892,"w":170,"h":223},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":170,"h":223},
+	"sourceSize": {"w":170,"h":223}
+},
+{
+	"filename": "sundus_moving_4.png",
+	"frame": {"x":0,"y":1115,"w":170,"h":223},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":170,"h":223},
+	"sourceSize": {"w":170,"h":223}
+},
+{
+	"filename": "sundus_sad_1.png",
+	"frame": {"x":170,"y":1115,"w":170,"h":223},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":170,"h":223},
+	"sourceSize": {"w":170,"h":223}
+},
+{
+	"filename": "sundus_sad_2.png",
+	"frame": {"x":340,"y":1115,"w":170,"h":223},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":170,"h":223},
+	"sourceSize": {"w":170,"h":223}
+},
+{
+	"filename": "sundus_static_1.png",
+	"frame": {"x":0,"y":1338,"w":170,"h":223},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":170,"h":223},
+	"sourceSize": {"w":170,"h":223}
+},
+{
+	"filename": "sundus_static_2.png",
+	"frame": {"x":170,"y":1338,"w":170,"h":223},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":170,"h":223},
+	"sourceSize": {"w":170,"h":223}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "characters.png",
+	"format": "RGBA8888",
+	"size": {"w":510,"h":1561},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:4ba2bef3a986e108495fc0cea7c4f62d:3fb890307ae0602f8d6017159ffa404a:a5fe7db4b869eb0f3e0b2940b9577ea8$"
+}
+}
